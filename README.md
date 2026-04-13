@@ -1,0 +1,7 @@
+Thực hành 13/04/2026 (N2): QUẢN TRỊ MẠNG LƯỚI WORDPRESS MULTISITE
+
+Họ và tên: Lê Minh Quân
+
+Lớp: D18CNPM2
+
+MSSV: 23810310115
